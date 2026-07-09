@@ -14,3 +14,6 @@ import './components/site-header/register';
 import './components/site-theme/register';
 import './components/slideshow/register';
 import './components/sticky-sidebar/register';
+import "./components/hello-world/hello-world.makeswift";
+import "./components/my-product-carousel/my-product-carousel.makeswift";
+import "./components/my-product-list/my-product-list.makeswift";
